@@ -8,7 +8,7 @@ tags: [servers, ubuntu]
 # Ubuntu Resize Disk LVM
 
 ### When you add more space to your disk in ex. Proxmox, you need to resize it in Ubuntu.
-<p>&nbsp</p>
+<br>
 
 ### Here are the commands that can help you achieve that:
 
