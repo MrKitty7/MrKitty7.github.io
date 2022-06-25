@@ -13,17 +13,17 @@ Let's get started!
 ## Let's begin by making our VM in Proxmox
 Note: You can use any hypervisor you choose.
 
-![I'll choose the name Ship.](creating-vm1.png "img1")
+![I'll choose the name Ship.](/mrkitty7.github.io/assets/img/creating-vm1.png "img1")
 
-![Next, I recommend you use Ubuntu Server 20.04 for your OS.](creating-vm2.png "img2")
+![Next, I recommend you use Ubuntu Server 20.04 for your OS.](/mrkitty7.github.io/assets/img/creating-vm2.png "img2")
 
-![Here, just copy my settings.](creating-vm3.png "img3")
+![Here, just copy my settings.](/mrkitty7.github.io/assets/img/creating-vm3.png "img3")
 
-![Here you can give your VM the amount of storage it can use. I gave it 200GB. ](creating-vm4.png "img4")
+![Here you can give your VM the amount of storage it can use. I gave it 200GB. ](/mrkitty7.github.io/assets/img/creating-vm4.png "img4")
 
-![Here, choose how much CPU cores and sockets you want to give your VM.](creating-vm5.png "img5")
+![Here, choose how much CPU cores and sockets you want to give your VM.](/mrkitty7.github.io/assets/img/creating-vm5.png "img5")
 
-![Here, choose how much RAM you want to give your VM.](creating-vm6.png "img6")
+![Here, choose how much RAM you want to give your VM.](/mrkitty7.github.io/assets/img/creating-vm6.png "img6")
 
 On the Networking section, just click next and finally finish. 
 
