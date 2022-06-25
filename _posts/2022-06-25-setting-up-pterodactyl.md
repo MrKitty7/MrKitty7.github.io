@@ -10,3 +10,4 @@ tags: [servers, ubuntu, pterodactyl, gaming]
 We'll be setting up Pterodactyl WITHOUT Docker, because it will be easier and will avoid issues.
 
 
+to be continued
